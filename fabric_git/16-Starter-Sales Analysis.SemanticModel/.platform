@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "16-Starter-Sales Analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "91e2664c-0704-9dd9-4810-8152a013405b"
+  }
+}
